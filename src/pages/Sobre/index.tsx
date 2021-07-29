@@ -2,10 +2,10 @@ import {
  Container,
 } from './styles';
 
-export function Home(){
+export function Sobre(){
  return (
    <Container>
-     <h1>CCCCCC</h1>
+     <h1>ZZZZZZZZZ</h1>
    </Container>
  );
 }

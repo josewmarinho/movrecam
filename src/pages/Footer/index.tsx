@@ -2,10 +2,10 @@ import {
  Container,
 } from './styles';
 
-export function Home(){
+export function Footer(){
  return (
    <Container>
-     <h1>CCCCCC</h1>
+     <h1>BBBBBBB</h1>
    </Container>
  );
 }

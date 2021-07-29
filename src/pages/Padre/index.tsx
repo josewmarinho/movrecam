@@ -2,10 +2,10 @@ import {
  Container,
 } from './styles';
 
-export function Home(){
+export function Padre(){
  return (
    <Container>
-     <h1>CCCCCC</h1>
+     <h1>XXXXXX</h1>
    </Container>
  );
 }

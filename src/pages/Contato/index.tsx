@@ -2,10 +2,10 @@ import {
  Container,
 } from './styles';
 
-export function Home(){
+export function Contato(){
  return (
    <Container>
-     <h1>CCCCCC</h1>
+     <h1>AAAAAAAAA</h1>
    </Container>
  );
 }
